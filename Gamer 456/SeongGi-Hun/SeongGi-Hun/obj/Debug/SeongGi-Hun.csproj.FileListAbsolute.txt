@@ -1,0 +1,16 @@
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\SeongGi-Hun\SeongGi-Hun\bin\Debug\SeongGi-Hun.exe.config
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\SeongGi-Hun\SeongGi-Hun\bin\Debug\SeongGi-Hun.exe
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\SeongGi-Hun\SeongGi-Hun\bin\Debug\SeongGi-Hun.pdb
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\SeongGi-Hun\SeongGi-Hun\obj\Debug\SeongGi-Hun.csproj.AssemblyReference.cache
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\SeongGi-Hun\SeongGi-Hun\obj\Debug\SeongGi-Hun.csproj.SuggestedBindingRedirects.cache
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\SeongGi-Hun\SeongGi-Hun\obj\Debug\MainWindow.g.cs
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\SeongGi-Hun\SeongGi-Hun\obj\Debug\App.g.cs
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\SeongGi-Hun\SeongGi-Hun\obj\Debug\SeongGi-Hun_MarkupCompile.cache
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\SeongGi-Hun\SeongGi-Hun\obj\Debug\SeongGi-Hun_MarkupCompile.lref
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\SeongGi-Hun\SeongGi-Hun\obj\Debug\MainWindow.baml
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\SeongGi-Hun\SeongGi-Hun\obj\Debug\SeongGi-Hun.g.resources
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\SeongGi-Hun\SeongGi-Hun\obj\Debug\SeongGi_Hun.Properties.Resources.resources
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\SeongGi-Hun\SeongGi-Hun\obj\Debug\SeongGi-Hun.csproj.GenerateResource.cache
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\SeongGi-Hun\SeongGi-Hun\obj\Debug\SeongGi-Hun.csproj.CoreCompileInputs.cache
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\SeongGi-Hun\SeongGi-Hun\obj\Debug\SeongGi-Hun.exe
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\SeongGi-Hun\SeongGi-Hun\obj\Debug\SeongGi-Hun.pdb

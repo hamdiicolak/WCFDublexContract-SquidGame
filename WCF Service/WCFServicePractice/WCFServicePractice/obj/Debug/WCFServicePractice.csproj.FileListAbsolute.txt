@@ -1,0 +1,14 @@
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\WCFServicePractice\WCFServicePractice\obj\Debug\WCFServicePractice.csproj.AssemblyReference.cache
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\WCFServicePractice\WCFServicePractice\obj\Debug\WCFServicePractice.csproj.CoreCompileInputs.cache
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\WCFServicePractice\WCFServicePractice\bin\Debug\WCFServicePractice.dll.config
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\WCFServicePractice\WCFServicePractice\bin\Debug\WCFServicePractice.dll
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\WCFServicePractice\WCFServicePractice\bin\Debug\WCFServicePractice.pdb
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\WCFServicePractice\WCFServicePractice\obj\Debug\WCFServicePractice.dll
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\WCFServicePractice\WCFServicePractice\obj\Debug\WCFServicePractice.pdb
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\WCF Service Dublex Contract\WCFServicePractice\WCFServicePractice\bin\Debug\WCFServicePractice.dll.config
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\WCF Service Dublex Contract\WCFServicePractice\WCFServicePractice\bin\Debug\WCFServicePractice.dll
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\WCF Service Dublex Contract\WCFServicePractice\WCFServicePractice\bin\Debug\WCFServicePractice.pdb
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\WCF Service Dublex Contract\WCFServicePractice\WCFServicePractice\obj\Debug\WCFServicePractice.csproj.CoreCompileInputs.cache
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\WCF Service Dublex Contract\WCFServicePractice\WCFServicePractice\obj\Debug\WCFServicePractice.dll
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\WCF Service Dublex Contract\WCFServicePractice\WCFServicePractice\obj\Debug\WCFServicePractice.pdb
+C:\Users\hamdi.colak\Desktop\Visual Studio Projects\WCF Service Dublex Contract\WCFServicePractice\WCFServicePractice\obj\Debug\WCFServicePractice.csproj.AssemblyReference.cache
